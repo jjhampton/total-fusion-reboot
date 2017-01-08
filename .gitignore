@@ -232,3 +232,21 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# 
+
+.vs
+.vscode
+.idea
+*.user
+*.orig
+bin
+obj
+bower_components
+node_modules
+wwwroot
+typings
+generated
+coverage
+*.suo
+*.log
