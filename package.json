@@ -1,6 +1,5 @@
 {
-  "name": "webapplication",
-  "version": "0.0.0",
+  "name": "totalfusionreboot",
   "private": true,
   "devDependencies": {
     "gulp": "3.9.1",
