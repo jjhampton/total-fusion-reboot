@@ -16,7 +16,7 @@ module.exports = [
   },
   {
     entry: {
-      app: './wwwroot/app/main.ts'
+      app: './scripts/main.ts'
     },
     output: {
       filename: './wwwroot/app/bundle.js'
